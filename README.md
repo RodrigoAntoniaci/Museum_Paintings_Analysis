@@ -1,1 +1,0 @@
-# Museum Paintings Analysis
